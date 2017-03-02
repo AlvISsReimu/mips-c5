@@ -1,0 +1,184 @@
+C:/Users/asus/Desktop/mips-c5/im.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/im.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im_8k
+
+Top level modules:
+	im_8k
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/testbench_timer.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/testbench_timer.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module testbench_timer
+
+Top level modules:
+	testbench_timer
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/mips.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/mips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/dmout_ext.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/dmout_ext.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dmout_ext
+
+Top level modules:
+	dmout_ext
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/dm.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/dm.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm_12k
+
+Top level modules:
+	dm_12k
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/npc.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/npc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module npc
+
+Top level modules:
+	npc
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/timer.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/timer.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module timer
+
+Top level modules:
+	timer
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/ext.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/ext.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ext
+
+Top level modules:
+	ext
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/gpr_a.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/gpr_a.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module gpr_a
+
+Top level modules:
+	gpr_a
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/head_timer.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/head_timer.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/aluout.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/aluout.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module aluout
+
+Top level modules:
+	aluout
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/alu.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/alu.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/gpr_b.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/gpr_b.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module gpr_b
+
+Top level modules:
+	gpr_b
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/mux.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/mux.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module MUX_RegDst
+-- Compiling module MUX_MemtoReg
+-- Compiling module MUX_ALUSrcA
+-- Compiling module MUX_ALUSrcB
+
+Top level modules:
+	MUX_RegDst
+	MUX_MemtoReg
+	MUX_ALUSrcA
+	MUX_ALUSrcB
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/cp0.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/cp0.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module cp0
+
+Top level modules:
+	cp0
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/ir.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/ir.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ir
+
+Top level modules:
+	ir
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/pc.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/pc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} {C:/Users/asus/Desktop/mips-c5/ALU control.v} {1 {vlog -work work -vopt {C:/Users/asus/Desktop/mips-c5/ALU control.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ALU_ctrl
+
+Top level modules:
+	ALU_ctrl
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/head_cp0.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/head_cp0.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/dr.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/dr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dr
+
+Top level modules:
+	dr
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/testbench_mips.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/testbench_mips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module testbench_mips
+
+Top level modules:
+	testbench_mips
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/mini_machine.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/mini_machine.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mini_machine
+
+Top level modules:
+	mini_machine
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/gpr.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/gpr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module gpr
+
+Top level modules:
+	gpr
+
+} {} {}} {C:/Users/asus/Desktop/mips-c5/control unit.v} {1 {vlog -work work -vopt {C:/Users/asus/Desktop/mips-c5/control unit.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/head_mips.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/head_mips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/mult_div_unit.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/mult_div_unit.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mult_div
+
+Top level modules:
+	mult_div
+
+} {} {}} C:/Users/asus/Desktop/mips-c5/bridge.v {1 {vlog -work work -vopt C:/Users/asus/Desktop/mips-c5/bridge.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module bridge
+
+Top level modules:
+	bridge
+
+} {} {}}

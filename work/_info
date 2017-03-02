@@ -1,0 +1,558 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\asus\Desktop\mips-c4
+T_opt
+Ve[H4VkSWM03DhUi<U;]nD3
+04 14 4 work testbench_mips fast 0
+=1-94dbc9484ec6-53233c65-af-2600
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.1a;51
+Z1 dC:\Users\asus\Desktop\mips-c4
+valu
+V67_PgDWXe<ESGjfR?Z2?M1
+r1
+31
+IEaZKE``zc1^89a2f<iQkB1
+Z2 dC:\Users\asus\Desktop\mips-c5
+w1393480252
+8C:/Users/asus/Desktop/mips-c5/alu.v
+FC:/Users/asus/Desktop/mips-c5/alu.v
+L0 3
+Z3 OE;L;10.1a;51
+Z4 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 7jShQ5MOk>j3l<M2cLz0O2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/alu.v|
+!s108 1394828282.947000
+!s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/alu.v|
+!i10b 1
+!s85 0
+vALU_ctrl
+V148>>ioUED7YAJhTzmNcb2
+r1
+31
+I;S:`LOADGYV2ajh;9aPeB1
+R2
+w1393925108
+8C:/Users/asus/Desktop/mips-c5/ALU control.v
+FC:/Users/asus/Desktop/mips-c5/ALU control.v
+L0 3
+R3
+R4
+n@a@l@u_ctrl
+!s100 YNMS=MjD0VTjmOMe9cX?O0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/ALU control.v|
+!s108 1394828286.377000
+!s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/ALU control.v|
+!i10b 1
+!s85 0
+valuout
+VPRX0VLJ9WjMiK3W9A;A5Y1
+r1
+31
+IO=0RGkFYcSMP`LcT`jgWM3
+R2
+w1393480416
+8C:/Users/asus/Desktop/mips-c5/aluout.v
+FC:/Users/asus/Desktop/mips-c5/aluout.v
+L0 1
+R3
+R4
+!s100 bXQFmcXlcT]:5bDlQoX?C0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/aluout.v|
+!s108 1394828283.127000
+!s107 C:/Users/asus/Desktop/mips-c5/aluout.v|
+!i10b 1
+!s85 0
+vbridge
+VZ;_GUS?OoN6ULTz:e_ahZ3
+r1
+31
+ISnc52APiXhWH5M:8PS19@0
+R2
+w1394820691
+8C:/Users/asus/Desktop/mips-c5/bridge.v
+FC:/Users/asus/Desktop/mips-c5/bridge.v
+L0 3
+R3
+R4
+!s100 5V6AkNLa:i^hi1RJ2QYmb2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/bridge.v|
+!s108 1394828287.128000
+!s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/bridge.v|
+!i10b 1
+!s85 0
+vcontrol_unit
+VI6::ckGYm]768TaXh3n8>1
+r1
+31
+IM>nV98V2IK5PgEhZ[h]h=1
+R2
+w1394835448
+8C:/Users/asus/Desktop/mips-c5/control unit.v
+FC:/Users/asus/Desktop/mips-c5/control unit.v
+L0 3
+R3
+R4
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/control unit.v|
+!s100 eNmT_YM^fQ@^Wdl_EK@jO1
+!s108 1394835583.087000
+!s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/control unit.v|
+!i10b 1
+!s85 0
+vcp0
+!i10b 1
+V51T^e2LLj^kShIP;`D36W2
+r1
+!s85 0
+31
+IdGZ0YJb5[2WTdV?:j_C]<3
+R2
+w1395465118
+8C:/Users/asus/Desktop/mips-c5/cp0.v
+FC:/Users/asus/Desktop/mips-c5/cp0.v
+L0 4
+R3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/cp0.v|
+R4
+!s100 Bj_oLiI<=4EjXJL^R]eDD2
+!s108 1395465125.016000
+!s107 .\head_mips.v|.\head_cp0.v|C:/Users/asus/Desktop/mips-c5/cp0.v|
+vdm_12k
+VVKL_eo[P3kLfO3`Boj[8S1
+r1
+31
+IYH1JG14Y_N:dmB[4Ib[[]3
+R2
+w1394834135
+Z5 8C:/Users/asus/Desktop/mips-c5/dm.v
+Z6 FC:/Users/asus/Desktop/mips-c5/dm.v
+L0 3
+R3
+Z7 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/dm.v|
+R4
+Z8 !s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/dm.v|
+!s100 K6T_ECW2D9L1PNcb7LYF31
+!s108 1394834144.493000
+!i10b 1
+!s85 0
+vdm_4k
+VRhLBSba8F1KbdSAX2^X[n1
+r1
+31
+INAgP]?W<3?oVNHM@mmB560
+R2
+w1394023181
+R5
+R6
+L0 3
+R3
+R4
+R7
+R8
+!s100 c7oGA?ZQ8zn98Kb?LcRj33
+!s108 1394023226.088000
+!i10b 1
+!s85 0
+vdmout_ext
+V9b:_4UTU=RH1dlzCD_N1J2
+r1
+31
+IWb>oMB=U4dBE3I>iXdYW?0
+R2
+w1394834512
+8C:/Users/asus/Desktop/mips-c5/dmout_ext.v
+FC:/Users/asus/Desktop/mips-c5/dmout_ext.v
+L0 3
+R3
+R4
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/dmout_ext.v|
+!s100 d`Ho36gnCRMCJPIbn=I[`3
+!s108 1394834514.845000
+!s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/dmout_ext.v|
+!i10b 1
+!s85 0
+vdr
+VJ:;=cEcVeMXX6VjORjTS_2
+r1
+31
+Io[Wh_QD7LjfSBUiko8=]31
+R2
+w1393480437
+8C:/Users/asus/Desktop/mips-c5/dr.v
+FC:/Users/asus/Desktop/mips-c5/dr.v
+L0 1
+R3
+R4
+!s100 7CM6d<_4Fo<A=kE9Wn7^D2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/dr.v|
+!s108 1394828283.857000
+!s107 C:/Users/asus/Desktop/mips-c5/dr.v|
+!i10b 1
+!s85 0
+vext
+V:4IQ`;YC1E;[WJT8HVCoH2
+r1
+31
+I:8eO;?C:XZi:IjF8AKzQ23
+R2
+w1394011902
+8C:/Users/asus/Desktop/mips-c5/ext.v
+FC:/Users/asus/Desktop/mips-c5/ext.v
+L0 3
+R3
+R4
+!s100 :1jhkz`8R6IR6P2zJ1IO]2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/ext.v|
+!s108 1394828284.047000
+!s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/ext.v|
+!i10b 1
+!s85 0
+vgpr
+VJBoC3nc15aeIacI;LK7GY0
+r1
+31
+IPQTO]zno7^P7e_OV=PV[@0
+R2
+w1394830119
+8C:/Users/asus/Desktop/mips-c5/gpr.v
+FC:/Users/asus/Desktop/mips-c5/gpr.v
+L0 3
+R3
+R4
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/gpr.v|
+!s100 ^LX?4;D6;VY@9neLeU6CS2
+!s108 1394830189.578000
+!s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/gpr.v|
+!i10b 1
+!s85 0
+vgpr_a
+V><BBcU_HNQ3]BCjWGHY@`2
+r1
+31
+IQJg_LVh=jEAE2ZI:>@FOE3
+R2
+w1393480216
+8C:/Users/asus/Desktop/mips-c5/gpr_a.v
+FC:/Users/asus/Desktop/mips-c5/gpr_a.v
+L0 1
+R3
+R4
+!s100 64H6T<_Y:OYhAeF6N_eRL3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/gpr_a.v|
+!s108 1394828284.427000
+!s107 C:/Users/asus/Desktop/mips-c5/gpr_a.v|
+!i10b 1
+!s85 0
+vgpr_b
+VchB37@OKmm3<bPdC<bWLI3
+r1
+31
+IB4aR?LX@YA>T9gN<Q;3^z0
+R2
+w1393480233
+8C:/Users/asus/Desktop/mips-c5/gpr_b.v
+FC:/Users/asus/Desktop/mips-c5/gpr_b.v
+L0 1
+R3
+R4
+!s100 WMXUZaf0oJiG1^K8W6?iR3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/gpr_b.v|
+!s108 1394828284.617000
+!s107 C:/Users/asus/Desktop/mips-c5/gpr_b.v|
+!i10b 1
+!s85 0
+vim_4k
+V8lldUOGDjd65>TI42D[nP0
+r1
+31
+IaBgBG:8[n;eAo7@i2aa2`1
+R2
+w1394012396
+Z9 8C:/Users/asus/Desktop/mips-c5/im.v
+Z10 FC:/Users/asus/Desktop/mips-c5/im.v
+L0 3
+R3
+R4
+Z11 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/im.v|
+Z12 !s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/im.v|
+!s100 >dDRW1W`2gdU0g8Z^F5S42
+!s108 1394012399.774000
+!i10b 1
+!s85 0
+vim_8k
+Vl3B0M3TPj5XJAN:8PFId43
+r1
+31
+I1FH7bk375n52;2G]Xi[7k3
+R2
+w1394391725
+R9
+R10
+L0 3
+R3
+R11
+R4
+R12
+!s100 ?ZhHVHJFAg5Z99UYLgWMe1
+!s108 1394828284.797000
+!i10b 1
+!s85 0
+vir
+VJnHFERAQ4gd`NoVW`4EiH3
+r1
+31
+I]5YDBfZ<FSdNH6JEe3@FW0
+R2
+w1393480017
+8C:/Users/asus/Desktop/mips-c5/ir.v
+FC:/Users/asus/Desktop/mips-c5/ir.v
+L0 1
+R3
+R4
+!s100 mKP=6e[?SB[od?kC702BF0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/ir.v|
+!s108 1394828284.987000
+!s107 C:/Users/asus/Desktop/mips-c5/ir.v|
+!i10b 1
+!s85 0
+vmini_machine
+Vi:oQYQn0deBHT3MT9M3RE2
+r1
+31
+IaJcUQl>M0FLhNCB;HYCPW3
+R2
+w1394820306
+8C:/Users/asus/Desktop/mips-c5/mini_machine.v
+FC:/Users/asus/Desktop/mips-c5/mini_machine.v
+L0 1
+R3
+R4
+!s100 2G66PQYMWS>bdRk<PO>I]3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/mini_machine.v|
+!s108 1394828288.008000
+!s107 C:/Users/asus/Desktop/mips-c5/mini_machine.v|
+!i10b 1
+!s85 0
+vmips
+VI63IQL;:i@AS^Gj0UEBN=0
+r1
+31
+I=L??oFbil:MmR@V>5]32n0
+R2
+w1395463865
+8C:/Users/asus/Desktop/mips-c5/mips.v
+FC:/Users/asus/Desktop/mips-c5/mips.v
+L0 3
+R3
+R4
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/mips.v|
+!s100 aDK4lHTTF?[ZV3aHVU0280
+!s108 1395463872.734000
+!s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/mips.v|
+!i10b 1
+!s85 0
+vmult_div
+VSKR=VAZ`VPC14aT?:MkVK1
+r1
+31
+IVJW]LA`=IoYKlZ[Zc;X^E3
+R2
+w1394834203
+8C:/Users/asus/Desktop/mips-c5/mult_div_unit.v
+FC:/Users/asus/Desktop/mips-c5/mult_div_unit.v
+L0 3
+R3
+R4
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/mult_div_unit.v|
+!s100 >965hm4B4KozI`DBJN`5D0
+!s108 1394834207.591000
+!s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/mult_div_unit.v|
+!i10b 1
+!s85 0
+vMUX_ALUSrcA
+VB58hjO2mMZoY[NT0J?cOh3
+r1
+31
+IfSB?F`g?]^0j89aPiMPB>3
+R2
+Z13 w1394446051
+Z14 8C:/Users/asus/Desktop/mips-c5/mux.v
+Z15 FC:/Users/asus/Desktop/mips-c5/mux.v
+L0 52
+R3
+Z16 !s108 1394828285.557000
+Z17 !s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/mux.v|
+Z18 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/mux.v|
+R4
+n@m@u@x_@a@l@u@src@a
+!s100 0IHYIm<VLW]Re9g<E7;bV1
+!i10b 1
+!s85 0
+vMUX_ALUSrcB
+V;EJBKVW<R?boJ8Nh>`OSD1
+r1
+31
+IN7HKO4=5O6SzZIE8ZX@1D0
+R2
+R13
+R14
+R15
+L0 74
+R3
+R16
+R17
+R18
+R4
+n@m@u@x_@a@l@u@src@b
+!s100 `JEfL7?CPH8cAbLAYX?af0
+!i10b 1
+!s85 0
+vMUX_MemtoReg
+VJh^1cS:lQhH`<5DR@fn9n0
+r1
+31
+IhLjnkejX7`9G?CTVBWLY01
+R2
+R13
+R14
+R15
+L0 24
+R3
+R16
+R17
+R18
+R4
+n@m@u@x_@memto@reg
+!s100 ^S3`a_DjZ7bE59[P[D_M90
+!i10b 1
+!s85 0
+vMUX_RegDst
+VNG;Be[L^_@aSO88FYX<d_1
+r1
+31
+Iz2NgA?54NcmB5HT?hLYQk0
+R2
+R13
+R14
+R15
+L0 3
+R3
+R16
+R17
+R18
+R4
+n@m@u@x_@reg@dst
+!s100 gzUNf_2P^3dHL`:SE4`jT3
+!i10b 1
+!s85 0
+vnpc
+VG^GIl6;^Z`9]F7XIRk7993
+r1
+31
+IHaKglP2SMCEKbSzj_^?o?3
+R2
+w1394831837
+8C:/Users/asus/Desktop/mips-c5/npc.v
+FC:/Users/asus/Desktop/mips-c5/npc.v
+L0 4
+R3
+R4
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/npc.v|
+!s100 `P]I4SYJFdbAjKAP9^eS02
+!s108 1394831844.126000
+!s107 .\head_cp0.v|.\head_mips.v|C:/Users/asus/Desktop/mips-c5/npc.v|
+!i10b 1
+!s85 0
+vpc
+V2YzY=5amYaVM_`6]18Mee1
+r1
+31
+IciYng;OZBXbGzU2dRAGIB3
+R2
+w1393479989
+8C:/Users/asus/Desktop/mips-c5/pc.v
+FC:/Users/asus/Desktop/mips-c5/pc.v
+L0 3
+R3
+R4
+!s100 2k:zBK3B`a8kHZg;N[E:B1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/pc.v|
+!s108 1394828286.157000
+!s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/pc.v|
+!i10b 1
+!s85 0
+vtestbench
+I?X>VZ;7XPfMzgAg2Vj0e[0
+VhGfW:390DM[oDMzegDH9`2
+R2
+w1394007630
+Z19 8C:/Users/asus/Desktop/mips-c5/testbench_mips.v
+Z20 FC:/Users/asus/Desktop/mips-c5/testbench_mips.v
+L0 3
+R3
+r1
+31
+Z21 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/testbench_mips.v|
+R4
+Z22 !s107 .\head_mips.v|C:/Users/asus/Desktop/mips-c5/testbench_mips.v|
+!s100 8M@haY@@NGISlkc7M>7cz2
+!s108 1394013029.307000
+!i10b 1
+!s85 0
+vtestbench_mips
+VlFRHmzL@>_NnQ6H:S@<4h2
+r1
+31
+I>M_F5AJ[B5g[0^[>]BC>23
+R2
+w1394831874
+R19
+R20
+L0 3
+R3
+R21
+R4
+R22
+!s100 22FQnJ=D7GfPLSSKInaQ33
+!s108 1394831876.889000
+!i10b 1
+!s85 0
+vtestbench_timer
+I75UG8DZA0N@Rg[K5CRPF`2
+V_O5MUdcinbFHeNi43D8@>3
+R2
+w1394017565
+8C:/Users/asus/Desktop/mips-c5/testbench_timer.v
+FC:/Users/asus/Desktop/mips-c5/testbench_timer.v
+L0 4
+R3
+r1
+31
+R4
+!s100 SKMK4j1e_O;j>EA[U=BR60
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/testbench_timer.v|
+!s108 1394828287.848000
+!s107 .\head_timer.v|.\head_mips.v|C:/Users/asus/Desktop/mips-c5/testbench_timer.v|
+!i10b 1
+!s85 0
+vtimer
+V`DeP2l=U4e=1jIYUQ8cJ20
+r1
+31
+I5<CfPVDWZhZ_m<P0Q=N;F0
+R2
+w1394826414
+8C:/Users/asus/Desktop/mips-c5/timer.v
+FC:/Users/asus/Desktop/mips-c5/timer.v
+L0 4
+R3
+R4
+!s100 hLBI]>H2C^aM^=S^W[R7k3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/asus/Desktop/mips-c5/timer.v|
+!s108 1394828287.398000
+!s107 .\head_timer.v|.\head_mips.v|C:/Users/asus/Desktop/mips-c5/timer.v|
+!i10b 1
+!s85 0
